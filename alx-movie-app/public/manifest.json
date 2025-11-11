@@ -1,0 +1,30 @@
+{
+  "name": "Cine Seek",
+  "short_name": "CineSeek",
+  "description": "Discover your next favorite movie with CineSeek - Your ultimate movie discovery platform",
+  "icons": [
+    {
+      "src": "/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/apple-icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/ms-icon-310x310.png",
+      "sizes": "310x310",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#171D22",
+  "background_color": "#171D22",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "categories": ["entertainment", "movies", "video"]
+}
